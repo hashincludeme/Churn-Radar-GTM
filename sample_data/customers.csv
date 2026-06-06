@@ -1,0 +1,11 @@
+customer_id,customer_name,csm_owner,plan_tier,contract_value,renewal_date,logins_last_7d,logins_prev_7d,features_adopted,features_available,support_tickets_open,nps_score,hubspot_contact_id,salesforce_account_id
+C001,Acme Corp,Sarah Lee,Enterprise,120000,2026-09-01,45,52,8,10,1,72,hs-10011,sf-20011
+C002,BlueSky Health,Marcus Chen,Growth,48000,2026-08-15,12,28,4,10,5,45,hs-10012,sf-20012
+C003,Meridian Labs,Sarah Lee,Enterprise,95000,2026-11-30,38,40,9,10,0,81,hs-10013,sf-20013
+C004,Cornerstone AI,Priya Nair,Starter,18000,2026-07-01,3,18,2,10,8,30,hs-10014,sf-20014
+C005,NovaBridge,Marcus Chen,Growth,55000,2026-12-15,22,25,6,10,2,68,hs-10015,sf-20015
+C006,Vertex Systems,Priya Nair,Enterprise,140000,2026-10-01,61,63,10,10,0,88,hs-10016,sf-20016
+C007,Cascade Retail,Sarah Lee,Growth,40000,2026-08-01,5,30,3,10,7,22,hs-10017,sf-20017
+C008,Luminary Bio,Marcus Chen,Starter,15000,2026-09-20,19,20,5,10,1,74,hs-10018,sf-20018
+C009,Orion Fintech,Priya Nair,Enterprise,200000,2026-07-15,70,72,10,10,0,91,hs-10019,sf-20019
+C010,Driftwood Media,Sarah Lee,Growth,32000,2026-11-01,8,22,3,10,6,38,hs-10020,sf-20020
